@@ -1,8 +1,63 @@
 <h1 align="center">Hey, I'm Sarvesh 👋</h1>
 
+
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+
+
+
 <p align="center">
-  CS student exploring computer vision & NLP — currently building a real-time ISL translator with MediaPipe + IndicTrans2.
+  CS student exploring computer vision & NLP
 </p>
+
+````markdown
+```python
+class SarveshHaldikar:
+
+    def __init__(self):
+        self.role = "AI & ML Developer"
+        self.debugging_skill = "Professional Stack Overflow Archaeologist"
+        
+        self.current_state = {
+            "sleep": "deprecated",
+            "motivation": "survives on caffeine",
+            "bugs_fixed": 3,
+            "bugs_created": 17
+        }
+
+        self.tech_stack = [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Full Stack Dev"
+        ]
+
+        self.currently_doing = (
+            "Training models and losing arguments to semicolons."
+        )
+
+    def introduce(self):
+        print(
+            "Hi, I'm Sarvesh 👋\n"
+            "I build AI systems because talking to humans "
+            "has a lower accuracy rate."
+        )
+
+    def daily_routine(self):
+        while alive:
+            code()
+            debug()
+            google("why is this not working")
+            regret()
+
+
+me = SarveshHaldikar()
+me.introduce()
+```
+````
+
+
 
 ---
 
