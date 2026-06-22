@@ -2,8 +2,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
 
 
 
