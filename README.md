@@ -1,7 +1,16 @@
+```
+╭──────────────────────────────────────────────╮
+│ 🔴 🟡 🟢  sarvesh@omega-127                 |
+├──────────────────────────────────────────────┤
+│                                              │
+│   _____  _______ _______  ______ _______     │
+│  |     | |  |  | |______ |  ____ |_____| ___ │
+│  |_____| |  |  | |______ |_____| |     |     │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
 <h1 align="center">Hey, I'm Sarvesh 👋</h1>
-
-
-
 
 
 
@@ -9,53 +18,20 @@
   CS student exploring computer vision & NLP
 </p>
 
-````markdown
 ```python
-class SarveshHaldikar:
-
+class Sarvesh:
     def __init__(self):
-        self.role = "AI & ML Developer"
-        self.debugging_skill = "Professional Stack Overflow Archaeologist"
+        self.username = "Omega-127"
+        self.role = "CS Student"
+        self.location = "Kolhapur, Maharashtra"
+        self.interests = ["Computer Vision", "NLP", "Deep Learning", "Fullstack Development]
         
-        self.current_state = {
-            "sleep": "deprecated",
-            "motivation": "survives on caffeine",
-            "bugs_fixed": 3,
-            "bugs_created": 17
-        }
+    def say_hi(self):
+        print("Git commit, pray, repeat.")
 
-        self.tech_stack = [
-            "Python",
-            "Machine Learning",
-            "Deep Learning",
-            "Full Stack Dev"
-        ]
-
-        self.currently_doing = (
-            "Training models and losing arguments to semicolons."
-        )
-
-    def introduce(self):
-        print(
-            "Hi, I'm Sarvesh 👋\n"
-            "I build AI systems because talking to humans "
-            "has a lower accuracy rate."
-        )
-
-    def daily_routine(self):
-        while alive:
-            code()
-            debug()
-            google("why is this not working")
-            regret()
-
-
-me = SarveshHaldikar()
-me.introduce()
+me = Sarvesh()
+me.say_hi()
 ```
-````
-
-
 
 ---
 
