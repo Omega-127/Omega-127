@@ -24,7 +24,7 @@ class Sarvesh:
         self.username = "Omega-127"
         self.role = "CS Student"
         self.location = "Kolhapur, Maharashtra"
-        self.interests = ["Computer Vision", "NLP", "Deep Learning", "Fullstack Development]
+        self.interests = ["Computer Vision", "NLP", "Deep Learning", "Fullstack Development"]
         
     def say_hi(self):
         print("Git commit, pray, repeat.")
