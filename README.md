@@ -1,12 +1,12 @@
 
 
+
+
 <h1 align="center">Hey, I'm Sarvesh 👋</h1>
 
 
 
-<p align="center">
-  CS student exploring computer vision & NLP
-</p>
+
 
 ```python
 class Sarvesh:
@@ -14,7 +14,8 @@ class Sarvesh:
         self.username = "Omega-127"
         self.role = "CS Student"
         self.location = "Kolhapur, Maharashtra"
-        self.interests = ["Computer Vision", "NLP", "Deep Learning", "Fullstack Development"]
+        self.interests = ["Computer Vision", "NLP", "Machine Learning"]
+        self.current_focus = ["Full Stack Development", "Web Development", "Deep Learning"]
         
     def say_hi(self):
         print("Git commit, pray, repeat.")
@@ -49,6 +50,10 @@ me.say_hi()
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omega-127&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omega-127&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
