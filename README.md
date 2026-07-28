@@ -58,5 +58,13 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omega-127&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omega-127/Omega-127/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omega-127/Omega-127/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omega-127/Omega-127/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
 ---
 
