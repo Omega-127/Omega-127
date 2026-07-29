@@ -41,6 +41,19 @@ me.say_hi()
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
   <img src="https://img.shields.io/badge/-013243?style=flat-square&logo=numpy&logoColor=white&logoSize=auto" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" width="50" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50" alt="pandas logo"  />
+</p>
+
+**Tools**
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" width="50" alt="jupyter logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" width="50" alt="pycharm logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50" alt="intellij logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" width="50" alt="notion logo"  />
 </p>
 
 ---
