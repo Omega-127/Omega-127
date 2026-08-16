@@ -61,11 +61,7 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-season-animate.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
-    <img alt="3D contribution graph" src="profile-3d-contrib/profile-season-animate.svg" width="60%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Omega-127/Omega-127/main/profile-3d-contrib/profile-customize.svg" width="60%">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omega-127&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
