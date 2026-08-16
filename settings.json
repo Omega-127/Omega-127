@@ -1,0 +1,17 @@
+{
+  "githubUserName": "Omega-127",
+  "type": "normal",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#39d353",
+  "weakColor": "#30363d",
+  "radarColor": "#39d353",
+  "growingAnimation": true,
+  "contribColors": [
+    "#161b22",
+    "#0e4429",
+    "#006d32",
+    "#26a641",
+    "#39d353"
+  ]
+}
